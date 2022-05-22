@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.obama-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    overflow: hidden;
+    justify-content: center;
+    background-color: orange;
+    /*position: relative;*/
+}
+
+
+.obama-item {
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    overflow: hidden;
+    min-width: 618px;
+    min-height: 500px;
+}
