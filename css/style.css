@@ -22,3 +22,9 @@
     min-width: 618px;
     min-height: 500px;
 }
+
+.obama {
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+}
